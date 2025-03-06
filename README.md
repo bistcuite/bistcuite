@@ -46,5 +46,4 @@
 ## Visitors Count
 ![draw](https://profile-counter.glitch.me/{bistcuite}/count.svg)
 
-<a rel="me" href="https://mastodon.online/@bistcuite">Mastodon</a>
 </div>
